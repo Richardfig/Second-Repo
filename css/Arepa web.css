@@ -31,6 +31,7 @@ hr{
     color: white;
     list-style-type: none;
     padding: 10px 20px; 
+    overflow: hidden;
 }
 
 .menu li {
@@ -315,6 +316,7 @@ article[id="circle"] p {
     width:90%;
 
 }
+
 
 
 
