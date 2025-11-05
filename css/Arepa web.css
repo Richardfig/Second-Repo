@@ -65,7 +65,7 @@ img[class="start_image"]{
     border-radius: 0;
     width: 100%; 
     margin-top: 0px;
-    height: 1280px;
+    height: 1000px;
     max-width: none;  
     min-width: none; 
     position: relative;
@@ -315,6 +315,7 @@ article[id="circle"] p {
     width:90%;
 
 }
+
 
 
 
