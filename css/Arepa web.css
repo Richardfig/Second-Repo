@@ -24,7 +24,7 @@ hr{
     bottom: 0;
     font-size: 18px;
     overflow: hidden;
-    background: rgb(3, 24, 70);
+    background: rgb(06, 32, 04);
     width: 100%;
     margin: 0;
     padding: 0;
@@ -317,3 +317,4 @@ article[id="circle"] p {
     width:90%;
 
 }
+
