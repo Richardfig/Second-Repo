@@ -23,7 +23,6 @@ hr{
     left: 0;
     bottom: 0;
     font-size: 18px;
-    overflow: hidden;
     background: rgb(06, 32, 04);
     width: 100%;
     margin: 0;
@@ -317,4 +316,5 @@ article[id="circle"] p {
     width:90%;
 
 }
+
 
