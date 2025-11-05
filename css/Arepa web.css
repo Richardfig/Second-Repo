@@ -71,7 +71,6 @@ img[class="start_image"]{
     min-width: none; 
     position: relative;
     right: 5%;
-    overflow: hidden;
 }
 
 .hr_inicial {
@@ -316,4 +315,5 @@ nav[id="final_list"] ol li{
 
 article[id="circle"] p {
     width:90%;
+
 }
