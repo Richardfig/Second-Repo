@@ -62,15 +62,14 @@ header div {
 }
 
 img[class="start_image"]{
-    opacity: .4;
+    opacity: 1;
     border-radius: 0;
     width: 100%; 
     margin-top: 0px;
-    height: 1000px;
-    max-width: none;  
-    min-width: none; 
+    height: 100%;
+    max-width: 100%;  
+    min-width: 100%; 
     position: relative;
-    right: 5%;
 }
 
 .hr_inicial {
@@ -317,6 +316,7 @@ article[id="circle"] p {
     width:90%;
 
 }
+
 
 
 
